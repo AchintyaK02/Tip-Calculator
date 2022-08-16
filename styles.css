@@ -195,6 +195,10 @@ input::-webkit-inner-spin-button {
     .container{
         min-width:90%;
     }
+    
+    .logo{
+        margin:10% auto 2%;
+    }
 
     .col2{
         margin-top:1em;
