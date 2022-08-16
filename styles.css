@@ -37,16 +37,14 @@ body{
 }
 
 .logo{
-    position: relative;
-    top:10%;
+    margin:2% auto;
 }
-
 
 .container{
     background-color: var(--clr-neutral-100);
     border-radius: 1.5em;
     padding: 1em 1.5em;
-    margin:10% auto;
+    margin:5% auto 10%;
     max-width: 50%;
     text-align: initial;
 }
